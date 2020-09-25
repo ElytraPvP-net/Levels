@@ -1,0 +1,13 @@
+name: Parties
+version: 1.0
+main: net.elytrapvp.levels.Levels
+api-version: 1.16
+authors: [ ElytraPvP ]
+description: Levels plugin for elytrapvp
+website: http://www.elytrapvp.net
+
+commands:
+  levels:
+    usage: /<command>
+    description: Main plugin command
+    permission: levels.admin
